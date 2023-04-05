@@ -8,3 +8,17 @@
     font-size: 17px;
     font-weight: 500;
 }
+
+.btn-clear{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    background-color: #FF3030;
+    color: white;
+    height: 50px;
+    font-size: 17px;
+}
