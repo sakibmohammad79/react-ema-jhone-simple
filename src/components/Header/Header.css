@@ -1,5 +1,6 @@
 .header{
     height: 80px;
+
     background-color:  #1C2B35;
     display: flex;
     justify-content: space-between;
@@ -16,4 +17,7 @@ nav.header a{
 }
 nav.header a:hover{
     color: orange;
+}
+.userName{
+    color: white;
 }
